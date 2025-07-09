@@ -1,8 +1,8 @@
-# WebDev: Frontend-Development – Basics
+# WebDev: Frontend Framework - Vue.js
 
 Das ist der Startercode für die Session „Frontend Framework - Vue.js” im Kurs Frontend-Development.
 
-**Verwenden Sie zur Bearbeitung den Einladungslink** auf der [Aufgabenseite zur Session #1](https://th-koeln.github.io/mi-bachelor-webdevelopment/assignments/fd_01_html-1/). Dann wird automatisch ein Repository auf Basis dieses Templates erstellt. Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin.
+**Verwenden Sie zur Bearbeitung den Einladungslink** auf der [Aufgabenseite zur Session #8](https://th-koeln.github.io/mi-bachelor-webdevelopment/assignments/fd-08-slideshow-masterpieces-vue-js). Dann wird automatisch ein Repository auf Basis dieses Templates erstellt. Klonen Sie bitte anschließend das Repository auf ihren Rechner und bearbeiten Sie die Aufgaben darin.
 
 - [Über Frontend-Development](https://th-koeln.github.io/mi-bachelor-webdevelopment/frontend-development/)
 
